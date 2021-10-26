@@ -1,5 +1,4 @@
 # DOCUMENTATION
-This is a repo for our 2nd Year SDP-1 Project. <br>
 Linked In Article Link: https://www.linkedin.com/pulse/service-management-system-prasanth-gunnam/ <br>
 ## USE CASE Diagram:<br>
 ![image](https://user-images.githubusercontent.com/91374818/138872079-e65fe585-659c-47cd-9b68-1770aedf3e6a.png)<br>
